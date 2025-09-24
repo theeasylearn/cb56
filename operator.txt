@@ -1,0 +1,31 @@
+what is operator?
+-----------------------------------------------------------
+operator means symbol in programming language like c language which is used to perform operation on variables or value. 
+--------------------------------------------------------
+there are so many type of operators in c language. 
+--------------------------------------------------------
+arithimatic operator
+    arithimatic is used to perform mathematical operations such as addition, subtraction, multiplication, divison etc. 
+    addition + 
+    subtraction - 
+    multiplication * 
+    division / (forward slash)
+    modules operator % 
+
+relational operator
+    relational operator are use to compare values. all the relational operator can return true(1) or false(0). it never give anything else. there are six relational operators
+
+    == double equal to   it used to check two variable/value are same or not 
+
+    != not equal to  it used to check two variable/value are different or not 
+
+    < less then it used to check whether 1st variable is less then 2nd variable value or not 
+
+    > greater then it used to check whether 1st variable is greater then 2nd variable value or not 
+
+    <= less then or equal to  it used to check whether 1st variable is less then or equal 2nd variable value or not 
+
+    >= greater then or equal to it used to check whether 1st variable is greater then or equal 2nd variable value or not 
+
+    
+logical operators 
