@@ -6,6 +6,7 @@ void main()
     num1 = 10;
     num2 = 20;
 
+    //relational expression
     result = num1 == num2; //false(0)
     printf("%d = %d == %d ",result,num1,num2);
 
