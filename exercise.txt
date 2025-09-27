@@ -3,7 +3,7 @@
 3) write a program to convert given inches into meter, remaining foot and remaining inches
 
 4) write a program to reverse 3 digit number 
-5) write a program to reverse 4 dight number;
+5) write a program to reverse 4 digit number;
 6) write a program to find sum & average of 5 given numbers
 7) write a program to area of a circle given radius.
 8) write a program to Convert temperature from Celsius to Fahrenheit
