@@ -13,15 +13,16 @@ there are 2 main categories of operators
         c = a - b
         c = a * b
         c = a / b
+        c = a % b
 
     unary operators
         unary operators works upon 1 value/variable
         for example 
         a = -a;
-        a++ 
-        ++a
-        --a
-        a-- 
+        a++ // or a = a + 1 
+        ++a // or a = a + 1 
+        --a  // or a = a - 1 
+        a--  // a = a - 1
 
 use wise categories of operators 
 ------------------------------
