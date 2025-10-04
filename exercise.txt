@@ -36,4 +36,12 @@ Write a program that takes a 5 subject marks from user. calculate total and aver
 | 60–69      | C     |
 | 50–59      | D     |
 | below 50   | Need to improve  |
+----------------------------------------
 
+1) write a program to accept 2 number from user. and accept choice for operations.
+operations will be addition, subtraction, multiplication, division
+do operation and display result as per user choice using switch statements.
+
+2) write a program to accept month number from user and display how many days month has. 
+    input : 1 output : this month has 31 days 
+    input : 4 output : this month has 30 days 
