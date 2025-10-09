@@ -79,4 +79,9 @@ write a program to findout whether given number is prime number or not
     some example of prime numbers are 1,2,3,5,7,11,13,17
 
 write a program to findout whether given number is composite number or not 
-    
+
+for loop 
+-------------------------------
+Z, X, V, T, R, P, N, L, J, H, F, D, B
+a, c, e, g, i, k, m, o, q, s, u, w, y.
+A, D, G, J, M, P, S, V, Y.
