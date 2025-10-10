@@ -11,7 +11,7 @@ void main()
     char letter;
     
 
-    for(ascii = 65;ascii<=90;ascii++)
+    for(ascii = 65;ascii<=90;ascii=ascii+1)
     {
         letter = ascii; //copy ascii variable into letter variable
         printf("\n%c = %d",letter,ascii);

@@ -85,3 +85,17 @@ for loop
 Z, X, V, T, R, P, N, L, J, H, F, D, B
 a, c, e, g, i, k, m, o, q, s, u, w, y.
 A, D, G, J, M, P, S, V, Y.
+
+write a program to findout whether given 3 digit number is armstrong number or not 
+input : 153 
+process 1x1x1+5x5x5+3x3x3 = 1+125+27 = 153
+
+write a program to generate reverse of given number 
+input : 12345
+output : 54321
+
+write a program to whether the given number is palindrom or not
+input : 13531
+output : 13531
+if reverse of the number is same as number, it is palindrom
+
