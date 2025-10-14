@@ -102,3 +102,36 @@ if reverse of the number is same as number, it is palindrom
 write a program to findout whether given number is composite number or not. 
 //Some composite numbers up to 100 are 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 25, 26, 27, 28, 30, 32, and 33. 
 
+nested loop 
+---------------------------------
+1   
+2   3
+4   5   6
+7   8   9   10
+
+1
+1   2
+1   2   3
+1   2   3   4
+1   2   3   4   5
+
+1
+0   1
+1   0   1
+0   1   0   1
+0   1   0   1   0
+
+5   4   3   2   1
+5   4   3   2 
+5   4   3  
+5   4   
+5   
+
+1   2   3   4   5
+1   2   3   4   
+1   2   3  
+1   2  
+1  
+
+
+

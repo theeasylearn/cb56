@@ -62,6 +62,7 @@ printf("\n good bye");
 
 nested loop 
     when we use any loop inside any other loop, it is nested loop. we can use for loop inside while loop, or while loop inside for loop. we can use do while inside for/while loop or vice versa. 
+    in nested loop 1st loop is called outer loop and loop inside 1st loop is called inner loop.  for each and every execution of outer loop, inner loop will start run and finish. 
 
     example 
     int i = 1, j= 1;
