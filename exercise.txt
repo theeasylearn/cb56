@@ -157,3 +157,11 @@ nested loop
    *   *
   *     *
  * * * * *
+
+ functions 
+ ----------------------
+ 1) write a program to crate function that return interest of given amount, rate, year supplied as input 
+
+ 2) write a program to create function that return total of five integer numbers given as arguments 
+
+ 

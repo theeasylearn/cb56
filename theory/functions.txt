@@ -8,7 +8,7 @@ What is functions?
 
     each and every function should do only one task. the main idea of using function is not to repeat code in program. if we repeat code there will be many issue while updating code. but if we use functions code will be shorter, easy to understand and easy to change. 
     function can return at most 1 value.
-
+    function do not run by itself, to run function, developer has to call(run/execute) it.
     types of function
         Library function 
             functions which are provide by c language Library is called Library function 
@@ -19,7 +19,7 @@ What is functions?
                 1   without return value without argument function 
                 2   without return value with argument function 
                 3   with return value without argument function 
-                3   with return value with argument function 
+                4   with return value with argument function 
         how to create function 
 
         syntax 
