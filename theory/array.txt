@@ -23,21 +23,21 @@ example
 int age[5];
 
 how to store/change value in array?
-age[0] = 25;
+age[5] = 25;
 
 how to access/display array
-printf("%d",age[0]);
+printf("%d",age[0]); //25
 
 how to take input from user into array
 scanf("%d",&age[0]);
 
 types of array 
 one dimensional array 
-    if array has only one dimensional then it is called one dimensional array. in short it is called 1D array. 1d array is vector
+    if array has only one dimensional then it is called one dimensional array. in short it is called 1D array. in maths 1d array is vector
 
 two dimensional array 
     if array is created in 2 dimensional, it is called two dimensional array. 
-    2d array has 2 dimensional one is horizontal and 2nd is vertical. 2d array is like table in excel. where horizontal lines are called row and vertical lines columns. combination of row and column is called cell. same concept allow applies to 2d array in c language. 2d array is matrix.
+    2d array has 2 dimensional one is horizontal and 2nd is vertical. 2d array is like table in excel. where horizontal lines are called row and vertical lines columns. combination of row and column is called cell/element. same concept allow applies to 2d array in c language. in maths 2d array is matrix.
 
 --------------------------------
 how to create 2d array?

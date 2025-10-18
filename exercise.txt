@@ -150,8 +150,7 @@ nested loop
    *   *
     * *
      *
-
-
+     
      *
     * *
    *   *
@@ -164,4 +163,7 @@ nested loop
 
  2) write a program to create function that return total of five integer numbers given as arguments 
 
- 
+ 3) write a program to display given decimal number into octal number system.
+
+ 4) write a program to display given decimal number into hexadecimal number system.
+
