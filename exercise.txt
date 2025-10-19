@@ -167,3 +167,14 @@ nested loop
 
  4) write a program to display given decimal number into hexadecimal number system.
 
+array 
+------------------------------------------------------------------------
+1) findout minimum  marks and their'position, modify example 37_array_1.c 
+
+2) write a program to store 5 crickters runs into array and findout total and average marks 
+
+3) write a program to store id of 10 students into array. accept id of the student from array.  if id found display position otherwise print message id not found.  
+
+4) write a program to store 5 float value into array. count negative and positive value into an array. 
+
+
