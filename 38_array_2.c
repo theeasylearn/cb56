@@ -17,8 +17,8 @@ void edit(float list[], float oldValue, float newValue);
 void delete(float list[], float deleteValue);
 void main()
 {
-    //local array
-    float list[SIZE];
+    // local array
+    float list[SIZE], oldValue, newValue, currentValue;
     int choice;
     do
     {
@@ -56,11 +56,17 @@ void main()
                 break;
 
             case 4:
-                printf("edit array");
+                printf("Enter value to search & replace");
+                scanf("%f", &oldValue); // 20.56
+                printf("Enter replacing value ");
+                scanf("%f", &newValue); // 100.88
+                edit(list, oldValue, newValue);
                 break;
 
             case 5:
-                printf("delete array");
+                printf("Enter value to search & remove");
+                scanf("%f", &currentValue); // 20.56
+                delete(list, currentValue);
                 break;
             }
         }
@@ -68,6 +74,23 @@ void main()
 }
 
 // function body
+void delete(float list[], float currentValue)
+{
+    int index;
+    for (index = 0; index < SIZE; index++)
+    {
+        if (list[index] == currentValue)
+        {
+            printf("Value found and deleted");
+            list[index] = 0.0;
+            break; // stop loop in between
+        }
+    }
+    if (index == SIZE)
+    {
+        printf("\n value not found ");
+    }
+}
 void input(float list[])
 {
     for (int index = 0; index < SIZE; index++) // 1
@@ -87,5 +110,24 @@ void output(float list[])
         index++;                                                         // 1
     }
     printf("press any key to continue \n");
-    scanf("%c",&letter);
+    scanf("%c", &
+
+                letter);
+}
+void edit(float list[], float oldValue, float newValue)
+{
+    int index;
+    for (index = 0; index < SIZE; index++)
+    {
+        if (list[index] == oldValue)
+        {
+            printf("\n value found ");
+            list[index] = newValue;
+            break; // loop will stop inbetween
+        }
+    }
+    if (index == SIZE)
+    {
+        printf("\n value not found ");
+    }
 }
