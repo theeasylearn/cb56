@@ -3,24 +3,25 @@ string is sequence of letters that ends with \0 (null).
 some example of string 
 name,surname,address, city etc 
 
-there is no datatype in to store string c language. so we use 1 dimension array of character to store string.
+
+there is no ready to use (built in)datatype in c language to store string . so we have use 1 dimension array of character to store string.
 
 how to create string (1d array of char)?
 char name[32],surname[32],address[512];
 
 how to take input from user in string usinc scanf? 
 example
-string name[32]
+char name[32]
 
 printf("enter your name");
 scanf("%s",name);
 
-scanf function accept string without space. if user give space scanf function will stop.
+scanf function can accept string without space. if user give space scanf function will stop, and input will not be stored properly in variable.
 
-to accept string with sapce we must use gets function
+to accept string with sapce we must use library  function, gets
 
 example 
-string address[512]
+char address[512]
 
 printf("enter your address");
 gets(address); 
@@ -31,6 +32,8 @@ we can display string either using printf function or using puts function
 
 example
 printf("%s",name);
+OR
+we can also display string use library function puts. 
 puts(address);
 
 

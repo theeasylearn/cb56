@@ -1,0 +1,35 @@
+what is variables?
+named location in main memory is called variables. this variables can store data temporarily (as long as program in running). it means data we store into variables will be lost when program is finished.
+ 
+each variable has 4 property
+    1) type (decide what type of value we can store in it)
+    2) name 
+    3) location (address) 
+    4) value
+
+how to create variable
+syntax 
+datatype name = value;
+
+example
+int age = 30;
+float weight = 65.25;
+char letter = 'L';
+
+how to display variable' value?
+-----------------------------------
+printf("age = %d",age); //type specifier 
+printf("\nweight = %f",weight);
+printf("letter = %c",letter);
+
+how to change variable ?
+-------------------------------------
+age = 38;
+weight = 75.25;
+letter = 'x';
+
+how to use variable?
+-----------------------
+int a = 10, b = 20, ans;
+ans = a + b
+printf("a = %d b = %d answer = %d",a,b,ans);

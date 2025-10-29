@@ -177,4 +177,21 @@ array
 
 4) write a program to store 5 float value into array. count negative and positive value into an array. 
 
+String 
+----------
+1) write a program to count no of words and digits in given string 
+
+2) write a program to display string in reverse 
+    input : apple 
+    output : elppa  
+
+3) write a program to copy one string into another string in reverse order and display it 
+    name : mango 
+    copy_name = ognam 
+
+4) write a program to check whether given string is palindrom or not 
+    name : madam 
+    reverse : madam 
+    if original and reverse string are same then it is called palindrom
+    
 
