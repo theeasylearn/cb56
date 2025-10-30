@@ -195,3 +195,6 @@ String
     if original and reverse string are same then it is called palindrom
     
 
+5) write a program to Toggle & copy given string into another string 
+Input AnKit @PATel 
+output aNkIT @patEL 
