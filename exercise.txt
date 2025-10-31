@@ -179,7 +179,6 @@ array
 
 String 
 ----------
-1) write a program to count no of words and digits in given string 
 
 2) write a program to display string in reverse 
     input : apple 
@@ -198,3 +197,9 @@ String
 5) write a program to Toggle & copy given string into another string 
 Input AnKit @PATel 
 output aNkIT @patEL 
+
+2d array program 
+
+1) modify example 41, findout which student has secure 1st position 
+2) modify example 41, findout which student has least score but not failed
+2) modify example 41, count how many students passed and failed. also calculate overall result. 
