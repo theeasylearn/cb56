@@ -203,3 +203,15 @@ output aNkIT @patEL
 1) modify example 41, findout which student has secure 1st position 
 2) modify example 41, findout which student has least score but not failed
 2) modify example 41, count how many students passed and failed. also calculate overall result. 
+
+structure
+--------------------
+write a program to create array of structure to store 5 different product detail such as 
+Name 
+Price 
+Weight 
+price per gram 
+
+accept input from user 
+display all the products 
+
