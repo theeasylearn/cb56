@@ -1,0 +1,4 @@
+1) modify program no 4, add user defined function for multiplication and division.
+
+2) write a program to calculate return total inches from given optional meter, foot and inches 
+
