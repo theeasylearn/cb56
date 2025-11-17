@@ -2,3 +2,6 @@
 
 2) write a program to calculate return total inches from given optional meter, foot and inches 
 
+3) write a program to findout greatest command devisior from 2 or 3 integer number using function overloading
+
+4) write a program to findout least command devisior from 2 or 3 integer number using function overloading
