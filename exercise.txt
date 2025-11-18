@@ -5,3 +5,8 @@
 3) write a program to findout greatest command devisior from 2 or 3 integer number using function overloading
 
 4) write a program to findout least command devisior from 2 or 3 integer number using function overloading
+
+5) write a program to create inline function toKG, tokwintle that convert given grams into kg, kwintle
+
+6) write a program to create inline function toDollar, toEuro, toPound that convert given rupees into corresponding currency 
+
