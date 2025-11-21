@@ -10,3 +10,17 @@
 
 6) write a program to create inline function toDollar, toEuro, toPound that convert given rupees into corresponding currency 
 
+class & object 
+-----------------------------
+1) create class Course to store name,duration,fees and it should have show method to display name, duration and fees 
+
+2) create class Movie to store name,length,price and it should have display method to display name, length and price 
+
+3) rewrite 1st exercise, create default constructor that will accept all data memebers value from user 
+
+4)  rewrite 2nd exercise, create default constructor that will accept all data memebers value from user 
+
+5) rewrite 3rd example, create parameterized constructor that will store values into name, duration and fees 
+
+6) rewrite rth example, create parameterized constructor that will store values into name, length and price 
+
