@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
+}

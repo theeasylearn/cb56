@@ -22,5 +22,11 @@ class & object
 
 5) rewrite 3rd example, create parameterized constructor that will store values into name, duration and fees 
 
-6) rewrite rth example, create parameterized constructor that will store values into name, length and price 
+6) rewrite 2nd example, create parameterized constructor that will store values into name, length and price 
 
+7) create class MYTime, it should have 3 data members hours, minute, second. and there should 3 constructor
+    default constructor
+    parameterized constructor
+    copy constructor
+also display method 
+    should display time with am pm 
