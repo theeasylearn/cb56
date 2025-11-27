@@ -30,3 +30,24 @@ class & object
     copy constructor
 also display method 
     should display time with am pm 
+
+Ternary operators 
+----------------------------------------------------------
+8) write a program to findout whether given letter is vowel or consonent.
+
+9) write a program to accept 2 number from user. and accept choice for operations.
+operations will be addition, subtraction, multiplication, division
+do operation and display result as per user choice using switch statements. 
+
+10) Write a program that takes a 5 subject marks from user. calculate total and average  and prints the grade using the following conditions:
+
+| Percentage | Grade |
+| ---------- | ----- |
+| 90–100     | A+    |
+| 80–89      | A     |
+| 70–79      | B     |
+| 60–69      | C     |
+| 50–59      | D     |
+| below 50   | Need to improve  |
+
+11) write a program to accept length and width of two different farm from user. and findout & display which farm is bigger 
