@@ -51,3 +51,18 @@ do operation and display result as per user choice using switch statements.
 | below 50   | Need to improve  |
 
 11) write a program to accept length and width of two different farm from user. and findout & display which farm is bigger 
+
+inheritance
+--------------------
+single level 
+1) create class person it has public methods 
+    walk
+    talk
+2) create class student it has public method 
+    walk
+    talk
+    read
+    write
+create inheritance to avoid repeating code 
+each method should display message like i can walk/talk etc 
+
